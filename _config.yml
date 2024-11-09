@@ -63,7 +63,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Ov23li4hHJUxv93V1Eh9                            #生成的clientID
   clientSecret: 73552348cc28aceede8638b39d4909959689166a    #生成的clientSecret
-  repo: kanzez.github.io    #仓库名称
+  repo: blog    #仓库名称
   owner: KANZEZ    #github用户名
   admin: KANZEZ
   distractionFreeMode: false #是否启用类似FB的阴影遮罩
