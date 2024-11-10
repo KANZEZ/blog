@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Useful Resources 
+title:      Useful Resources[updating] 
 subtitle:   Useful Resources includes books, videos and tutorials
 date:       2000-01-01
 author:     SH
