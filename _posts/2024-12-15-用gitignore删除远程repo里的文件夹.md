@@ -7,7 +7,7 @@ author:     SH
 header-img: img/post-bg-robot0.jpg
 catalog: true
 tags:
-    - git
+    -coding tricks
 ---
 
 
