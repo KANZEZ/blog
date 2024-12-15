@@ -1,3 +1,16 @@
+---
+layout:     post
+title:      用gitignore删除远程repo里的文件夹 
+subtitle:   用gitignore删除远程repo里的文件夹
+date:       2024-12-15
+author:     SH
+header-img: img/post-bg-robot0.jpg
+catalog: true
+tags:
+    - git
+---
+
+
 ### 如何用gitignore删除远程repo里的不需要的文件/夹
 
 #### 适用情况：
